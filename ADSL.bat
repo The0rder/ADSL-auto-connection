@@ -5,5 +5,5 @@ if errorlevel 1 (
 rasdial 宽带名称 宽带账号 宽带密码
 ) 
 TIMEOUT 10 
-%等待时间，默认10秒%
+::TIMEOUT后的数字为等待时间，默认10秒%
 goto:start
